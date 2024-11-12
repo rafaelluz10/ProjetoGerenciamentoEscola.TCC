@@ -1,0 +1,15 @@
+C:\Users\Laboratorio-Info\Documents\ProjetoGerenciamentoEscola.TCC\ProjetoGerenciamentoEscolar\bin\Debug\ProjetoGerenciamentoEscolar.exe.config
+C:\Users\Laboratorio-Info\Documents\ProjetoGerenciamentoEscola.TCC\ProjetoGerenciamentoEscolar\bin\Debug\ProjetoGerenciamentoEscolar.exe
+C:\Users\Laboratorio-Info\Documents\ProjetoGerenciamentoEscola.TCC\ProjetoGerenciamentoEscolar\bin\Debug\ProjetoGerenciamentoEscolar.pdb
+C:\Users\Laboratorio-Info\Documents\ProjetoGerenciamentoEscola.TCC\ProjetoGerenciamentoEscolar\bin\Debug\CapaDeEntidade.dll
+C:\Users\Laboratorio-Info\Documents\ProjetoGerenciamentoEscola.TCC\ProjetoGerenciamentoEscolar\bin\Debug\CapaDeNegocio.dll
+C:\Users\Laboratorio-Info\Documents\ProjetoGerenciamentoEscola.TCC\ProjetoGerenciamentoEscolar\bin\Debug\CapaDeEntidade.pdb
+C:\Users\Laboratorio-Info\Documents\ProjetoGerenciamentoEscola.TCC\ProjetoGerenciamentoEscolar\bin\Debug\CapaDeNegocio.pdb
+C:\Users\Laboratorio-Info\Documents\ProjetoGerenciamentoEscola.TCC\ProjetoGerenciamentoEscolar\obj\Debug\ProjetoGerenciamentoEscolar.csproj.AssemblyReference.cache
+C:\Users\Laboratorio-Info\Documents\ProjetoGerenciamentoEscola.TCC\ProjetoGerenciamentoEscolar\obj\Debug\ProjetoGerenciamentoEscolar.frmLogin.resources
+C:\Users\Laboratorio-Info\Documents\ProjetoGerenciamentoEscola.TCC\ProjetoGerenciamentoEscolar\obj\Debug\ProjetoGerenciamentoEscolar.Properties.Resources.resources
+C:\Users\Laboratorio-Info\Documents\ProjetoGerenciamentoEscola.TCC\ProjetoGerenciamentoEscolar\obj\Debug\ProjetoGerenciamentoEscolar.csproj.GenerateResource.cache
+C:\Users\Laboratorio-Info\Documents\ProjetoGerenciamentoEscola.TCC\ProjetoGerenciamentoEscolar\obj\Debug\ProjetoGerenciamentoEscolar.csproj.CoreCompileInputs.cache
+C:\Users\Laboratorio-Info\Documents\ProjetoGerenciamentoEscola.TCC\ProjetoGerenciamentoEscolar\obj\Debug\ProjetoGerenciamentoEscolar.csproj.CopyComplete
+C:\Users\Laboratorio-Info\Documents\ProjetoGerenciamentoEscola.TCC\ProjetoGerenciamentoEscolar\obj\Debug\ProjetoGerenciamentoEscolar.exe
+C:\Users\Laboratorio-Info\Documents\ProjetoGerenciamentoEscola.TCC\ProjetoGerenciamentoEscolar\obj\Debug\ProjetoGerenciamentoEscolar.pdb

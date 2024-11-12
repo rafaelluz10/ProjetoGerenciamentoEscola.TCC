@@ -1,0 +1,6 @@
+C:\Users\Laboratorio-Info\Documents\ProjetoGerenciamentoEscola.TCC\CapaDeEntidade\bin\Debug\CapaDeEntidade.dll
+C:\Users\Laboratorio-Info\Documents\ProjetoGerenciamentoEscola.TCC\CapaDeEntidade\bin\Debug\CapaDeEntidade.pdb
+C:\Users\Laboratorio-Info\Documents\ProjetoGerenciamentoEscola.TCC\CapaDeEntidade\obj\Debug\CapaDeEntidade.csproj.AssemblyReference.cache
+C:\Users\Laboratorio-Info\Documents\ProjetoGerenciamentoEscola.TCC\CapaDeEntidade\obj\Debug\CapaDeEntidade.csproj.CoreCompileInputs.cache
+C:\Users\Laboratorio-Info\Documents\ProjetoGerenciamentoEscola.TCC\CapaDeEntidade\obj\Debug\CapaDeEntidade.dll
+C:\Users\Laboratorio-Info\Documents\ProjetoGerenciamentoEscola.TCC\CapaDeEntidade\obj\Debug\CapaDeEntidade.pdb

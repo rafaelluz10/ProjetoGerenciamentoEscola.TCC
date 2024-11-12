@@ -1,0 +1,9 @@
+C:\Users\Laboratorio-Info\Documents\ProjetoGerenciamentoEscola.TCC\CapaDeDados\bin\Debug\CapaDeDados.dll
+C:\Users\Laboratorio-Info\Documents\ProjetoGerenciamentoEscola.TCC\CapaDeDados\bin\Debug\CapaDeDados.pdb
+C:\Users\Laboratorio-Info\Documents\ProjetoGerenciamentoEscola.TCC\CapaDeDados\bin\Debug\CapaDeEntidade.dll
+C:\Users\Laboratorio-Info\Documents\ProjetoGerenciamentoEscola.TCC\CapaDeDados\bin\Debug\CapaDeEntidade.pdb
+C:\Users\Laboratorio-Info\Documents\ProjetoGerenciamentoEscola.TCC\CapaDeDados\obj\Debug\CapaDeDados.csproj.AssemblyReference.cache
+C:\Users\Laboratorio-Info\Documents\ProjetoGerenciamentoEscola.TCC\CapaDeDados\obj\Debug\CapaDeDados.csproj.CoreCompileInputs.cache
+C:\Users\Laboratorio-Info\Documents\ProjetoGerenciamentoEscola.TCC\CapaDeDados\obj\Debug\CapaDeDados.csproj.CopyComplete
+C:\Users\Laboratorio-Info\Documents\ProjetoGerenciamentoEscola.TCC\CapaDeDados\obj\Debug\CapaDeDados.dll
+C:\Users\Laboratorio-Info\Documents\ProjetoGerenciamentoEscola.TCC\CapaDeDados\obj\Debug\CapaDeDados.pdb

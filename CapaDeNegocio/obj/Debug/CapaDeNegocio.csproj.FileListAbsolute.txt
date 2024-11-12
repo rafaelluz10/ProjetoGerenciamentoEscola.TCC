@@ -1,0 +1,11 @@
+C:\Users\Laboratorio-Info\Documents\ProjetoGerenciamentoEscola.TCC\CapaDeNegocio\bin\Debug\CapaDeNegocio.dll
+C:\Users\Laboratorio-Info\Documents\ProjetoGerenciamentoEscola.TCC\CapaDeNegocio\bin\Debug\CapaDeNegocio.pdb
+C:\Users\Laboratorio-Info\Documents\ProjetoGerenciamentoEscola.TCC\CapaDeNegocio\bin\Debug\CapaDeDados.dll
+C:\Users\Laboratorio-Info\Documents\ProjetoGerenciamentoEscola.TCC\CapaDeNegocio\bin\Debug\CapaDeEntidade.dll
+C:\Users\Laboratorio-Info\Documents\ProjetoGerenciamentoEscola.TCC\CapaDeNegocio\bin\Debug\CapaDeDados.pdb
+C:\Users\Laboratorio-Info\Documents\ProjetoGerenciamentoEscola.TCC\CapaDeNegocio\bin\Debug\CapaDeEntidade.pdb
+C:\Users\Laboratorio-Info\Documents\ProjetoGerenciamentoEscola.TCC\CapaDeNegocio\obj\Debug\CapaDeNegocio.csproj.AssemblyReference.cache
+C:\Users\Laboratorio-Info\Documents\ProjetoGerenciamentoEscola.TCC\CapaDeNegocio\obj\Debug\CapaDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Laboratorio-Info\Documents\ProjetoGerenciamentoEscola.TCC\CapaDeNegocio\obj\Debug\CapaDeNegocio.csproj.CopyComplete
+C:\Users\Laboratorio-Info\Documents\ProjetoGerenciamentoEscola.TCC\CapaDeNegocio\obj\Debug\CapaDeNegocio.dll
+C:\Users\Laboratorio-Info\Documents\ProjetoGerenciamentoEscola.TCC\CapaDeNegocio\obj\Debug\CapaDeNegocio.pdb
